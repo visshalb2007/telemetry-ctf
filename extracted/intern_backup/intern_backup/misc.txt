@@ -1,0 +1,7 @@
+TODO:
+- rotate intern passwords
+- clean FTP directories
+- disable password auth on ssh
+- review permissions
+
+(low priority)

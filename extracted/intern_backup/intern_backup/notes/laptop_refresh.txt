@@ -1,0 +1,12 @@
+Laptop refresh notes - October
+
+- Intern account migrated to new workstation
+- Old SSH access archived just in case
+- Remove after verification
+
+TODO:
+- delete old key backups
+
+
+username - intern
+password - agb!$sa4dx!##
