@@ -1,0 +1,23 @@
+# Large VM disk images & binaries
+*.vdi
+*.vmdk
+*.ova
+*.vbox-prev
+gdgchallenge/*.vdi
+
+# Large raw datasets (> 100MB)
+*.ndjson
+server_telemetry.ndjson
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
